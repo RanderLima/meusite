@@ -1,0 +1,108 @@
+#principal{
+    padding: 0%;
+    margin: 0%;
+    background-color: pink;
+}
+
+#topo{
+    display: flex;
+    background-color: pink;
+    border-bottom: 7px solid rgb(235, 72, 145);
+    padding: 5px;
+    color: rgb(235, 72, 145);
+    text-align: center;
+    }
+
+    .mulher{
+        border-radius: 50%;
+        width: inherit;
+        height: inherit;
+    }
+
+#corpo{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(235, 72, 145);
+    font-style: normal;
+}
+
+#menu{
+    font-size: 25px;
+    background-color: pink;
+    border-right: 7px solid rgb(235, 72, 145);
+    border-bottom: 5px solid rgb(235, 72, 145) ;
+    padding: 5px;
+    color: rgb(235, 72, 145);
+    text-align: center;
+    display: flexbox;
+    width: 30%;
+    height: 100%;
+}
+
+#vitrine{
+    background-color: pink;
+    color: gold;
+    border-bottom: 5px solid rgb(235, 72, 145) ;
+    text-align: center;
+    display: flexbox;
+    width: 100%;
+    height: inherit;
+    }
+
+#social{
+    width: inherit;
+    border-left: solid 7px rgb(235, 72, 145);
+    border-bottom: solid 5px rgb(235, 72, 145);
+    width: 30%;
+    height: inherit;
+}
+
+footer{
+    color: rgb(235, 72, 145);
+    padding-bottom: 5px;
+    background-color: pink;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 170px;
+    margin-right: 170px;
+    
+    }
+h3{
+    margin-bottom: 0%;
+}
+
+#bemvindo{
+    
+    
+    width: inherit;
+    height: 100%;
+}
+
+img{
+    
+    width: 100%;
+    height: 100%;
+}
+
+.imgmenu{
+    border-radius: 20%;
+    width: inherit;
+    height: inherit;
+}
+
+.redesocial{
+    border-radius: 50%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 200px;
+    height: 200px;
+}

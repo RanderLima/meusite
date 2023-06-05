@@ -1,0 +1,77 @@
+#principal{
+    background-color: pink;
+}
+
+#topo{
+    display: flex;
+    background-color: pink;
+    border-bottom: 7px solid rgb(235, 72, 145);
+    
+    color: rgb(235, 72, 145);
+    text-align: center;   
+    width: inherit;
+    height: 15 0px;
+    }
+
+    h1{
+        margin-left: 150px;
+        margin-right: 150px;
+        font-size: 50px;
+        }
+
+    .mulher{
+        padding: 5px;
+        border-radius: 50%;
+        width: inherit;
+        height: inherit;
+    }
+  
+
+a{
+    
+    color: rgb(235, 72, 145);
+    font-style: normal;
+    text-decoration: none;
+}  
+    
+
+#menu{
+    margin-left: 15;
+    display: flexbox;
+    padding: 5px;
+    color: rgb(235, 72, 145);
+    text-align: center;
+    font-size: 35px;
+    border: 5px solid rgb(235, 72, 145);
+    border-radius: 50%;
+    width: 100px;
+    
+}
+
+#vitrine{
+    background-color: pink;
+    color: rgb(235, 72, 145);
+    font-size: 30px;
+    text-align: center;
+    display: block;
+    padding: 0%;
+    }
+
+    .moda{
+        border-radius: 20%;
+        border-right: solid rgb(235, 72, 145) 20px;
+        border-bottom: solid rgb(235, 72, 145) 20px;
+        display: inline;
+        width: 500px;
+        height: 500px;
+        margin: 15px;    
+        }
+
+    footer{
+        border-top: 5px solid rgb(235, 72, 145);
+        
+        color: rgb(235, 72, 145);
+        padding-bottom: 5px;
+        background-color: pink;
+        text-align: center;
+    }
